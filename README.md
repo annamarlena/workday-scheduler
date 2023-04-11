@@ -13,3 +13,5 @@ I learned a lot about using jQuery and also dynamically generating the divs for 
 Open [https://annamarlena.github.io/workday-scheduler/](https://annamarlena.github.io/workday-scheduler/) with your browser to see the result.
 
 ## Screenshot
+
+![Here's a screenshot of the home page](./assets/screenshot.png)
