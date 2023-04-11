@@ -2,7 +2,7 @@
 
 ## Objective
 
-The objective was to create a day planner page that updates with the correct day and date at the top of the page, and keeps track of the current hour in hour blocks for a regular workday. Past hours are gray, the current hour is orange, and future hour blocks are minty-colored. When the user enters text into one of the hour blocks and clicks save, the text is theoretically saved. (Still working on this piece.)
+The objective was to create a day planner page that updates with the correct day and date at the top of the page, and keeps track of the current hour in hour blocks for a regular workday. Past hours are in one color, the current hour is another color, and future hour blocks are a different color again. When the user enters text into one of the hour blocks and clicks save, the text is theoretically saved. (Still working on this piece.)
 
 ## What I Learned
 

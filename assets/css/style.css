@@ -31,25 +31,25 @@ textarea {
 }
 
 .past {
-  background-color: #d3d3d3;
+  background-color: #086972;
   color: white;
 }
 
 .present {
-  background-color: #f59236;
+  background-color: #17B978;
   color: white;
 }
 
 .future {
-  background-color: #33e7a2;
-  color: white;
+  background-color: #A7FF83;
+  color: black;
 }
 
 .saveBtn {
   border-left: 1px solid black;
   border-top-right-radius: 15px;
   border-bottom-right-radius: 15px;
-  background-color: #7533e7;
+  background-color: #071A52;
   color: white;
 }
 
