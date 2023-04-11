@@ -10,6 +10,6 @@ I learned a lot about using jQuery and also dynamically generating the divs for 
 
 ## Link to Published Repo
 
-Open [file:///Users/annakeller/Desktop/BootCamp/homework/workday-scheduler/index.html](file:///Users/annakeller/Desktop/BootCamp/homework/workday-scheduler/index.html) with your browser to see the result.
+Open [https://annamarlena.github.io/workday-scheduler/](https://annamarlena.github.io/workday-scheduler/) with your browser to see the result.
 
 ## Screenshot
